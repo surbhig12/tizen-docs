@@ -7,7 +7,8 @@
 }
 </style>
 
+<link href="/css/api-reference.css" rel="stylesheet">
 <div class="dox">
-	<iframe src="./wearable/3.0/index.html" class="dox" frameborder="0">
+	<iframe src="./wearable/3.0/index.html" class="dox" frameborder="0" allowfullscreen onload="resizeIframe(this)">
 	</iframe>
 </div>
